@@ -1,0 +1,143 @@
+.vaciar{
+    border-style: none;
+    width: 90px;
+    height: 50px;
+    display: inline-block;
+    margin:-2px; 
+    text-align: center;
+    line-height: 50px;
+
+}
+
+.columnas{
+    border-style: solid;
+    width: 90px;
+    height: 50px;
+    display: inline-block;
+    margin:-3px; 
+    text-align: center;
+    line-height: 50px;
+}
+
+.columnas1{
+    border-style: solid;
+    width: 90px;
+    height: 50px;
+    display: inline-block;
+    margin:-3px; 
+    text-align: center;
+    line-height: 50px;
+    background-color: red;
+}
+
+.columnas2{
+    border-style: solid;
+    width: 90px;
+    height: 50px;
+    display: inline-block;
+    margin:-3px; 
+    text-align: center;
+    line-height: 50px;
+    background-color: blue;
+
+}
+
+.columnas3{
+    border-style: solid;
+    width: 90px;
+    height: 50px;
+    display: inline-block;
+    margin:-3px; 
+    text-align: center;
+    line-height: 50px;
+    background-color: yellow;
+}
+
+
+.columnas4{
+    border-style: solid;
+    width: 90px;
+    height: 50px;
+    display: inline-block;
+    margin:-3px; 
+    text-align: center;
+    line-height: 50px;
+    background-color: green;
+}
+
+.columnas5{
+    border-style: solid;
+    width: 90px;
+    height: 50px;
+    display: inline-block;
+    margin:-3px; 
+    text-align: center;
+    line-height: 50px;
+    background-color: greenyellow;
+}
+
+.columnas6{
+    border-style: solid;
+    width: 90px;
+    height: 50px;
+    display: inline-block;
+    margin:-3px; 
+    text-align: center;
+    line-height: 50px;
+    background-color: pink;
+}
+
+.columnas7{
+    border-style: solid;
+    width: 90px;
+    height: 50px;
+    display: inline-block;
+    margin:-3px; 
+    text-align: center;
+    line-height: 50px;
+    background-color: purple;
+}
+
+.columnas8{
+    border-style: solid;
+    width: 90px;
+    height: 50px;
+    display: inline-block;
+    margin:-3px; 
+    text-align: center;
+    line-height: 50px;
+    background-color: gold;
+}
+
+.columnas9{
+    border-style: solid;
+    width: 90px;
+    height: 50px;
+    display: inline-block;
+    margin:-3px; 
+    text-align: center;
+    line-height: 50px;
+    background-color: brown;
+}
+
+.columnas10{
+    border-style: solid;
+    width: 90px;
+    height: 50px;
+    display: inline-block;
+    margin:-3px; 
+    text-align: center;
+    line-height: 50px;
+    background-color:fuchsia;
+}
+
+.columnas11{
+    border-style: solid;
+    width: 90px;
+    height: 50px;
+    display: inline-block;
+    margin:-3px; 
+    text-align: center;
+    line-height: 50px;
+    background-color:gray;
+}
